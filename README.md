@@ -1,10 +1,10 @@
 ### Hi there 👋 I am nazimai
 
-<p align="center">
+<!-- <p align="center">
 <a href="https://github.com/cxymq">
   <img height="180em" src="https://github.com/cxymq/Images/blob/master/gif/c8460ec6-e49a-4811-9e9a-8cc094124815.gif" />
 </a>
-</p>
+</p> -->
 
 <!--
 **cxymq/cxymq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
