@@ -19,9 +19,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
- [![GitHub contributors](https://img.shields.io/github/contributors/cxymq/creative-profile-readme)](https://github.com/cxymq/creative-profile-readme/graphs/contributors) [![GitHub issues](https://img.shields.io/github/issues/cxymq/creative-profile-readme)](https://github.com/cxymq/creative-profile-readme/issues) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/cxymq/creative-profile-readme/pulls) [![HitCount](https://views.whatilearened.today/views/github/cxymq/creative-profile-readme.svg)](https://github.com/cxymq/creative-profile-readme) [![CSDN](https://img.shields.io/static/v1?label=csdn&message=up&color=green)](https://blog.csdn.net/Crazy_SunShine/)
+
+ [![GitHub contributors](https://img.shields.io/github/contributors/cxymq/creative-profile-readme)](https://github.com/cxymq/creative-profile-readme/graphs/contributors) [![GitHub issues](https://img.shields.io/github/issues/cxymq/creative-profile-readme)](https://github.com/cxymq/creative-profile-readme/issues) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/cxymq/creative-profile-readme/pulls) [![HitCount](https://views.whatilearened.today/views/github/cxymq/creative-profile-readme.svg)](https://github.com/cxymq/creative-profile-readme) 
+-->
+[![CSDN](https://img.shields.io/static/v1?label=csdn&message=up&color=green)](https://blog.csdn.net/Crazy_SunShine/)
 
 <p align="center">
 <a href="https://github.com/cxymq">
