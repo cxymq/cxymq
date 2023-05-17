@@ -24,12 +24,12 @@ Here are some ideas to get you started:
  [![GitHub contributors](https://img.shields.io/github/contributors/cxymq/creative-profile-readme)](https://github.com/cxymq/creative-profile-readme/graphs/contributors) [![GitHub issues](https://img.shields.io/github/issues/cxymq/creative-profile-readme)](https://github.com/cxymq/creative-profile-readme/issues) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/cxymq/creative-profile-readme/pulls) [![HitCount](https://views.whatilearened.today/views/github/cxymq/creative-profile-readme.svg)](https://github.com/cxymq/creative-profile-readme) 
 -->
 [![CSDN](https://img.shields.io/static/v1?label=csdn&message=up&color=green)](https://blog.csdn.net/Crazy_SunShine/)
-
-<p align="center">
+[![Netease recently played](https://netease-recent-profile.vercel.app/?id=84555832&show_percent=1&size=60&title=最近在听)](https://netease-recent-profile.vercel.app/?id=126764012&show_percent=1&size=60&title=最近在听)
+<!-- <p align="center">
 <a href="https://github.com/cxymq">
   <img height="180em" src="https://github.com/cxymq/Images/blob/master/gif/d7ae04e1-390a-4553-befa-9f8ffc08f7b6.gif" />
 </a>
-</p>
+</p> -->
 
 <p align="center">
 <a href="https://github.com/cxymq">
@@ -38,4 +38,4 @@ Here are some ideas to get you started:
 </a>
 </p>
 
-[![Netease recently played](https://netease-recent-profile.vercel.app/?id=84555832&show_percent=1&size=60)](https://netease-recent-profile.vercel.app/?id=126764012&show_percent=1&size=60)
+
