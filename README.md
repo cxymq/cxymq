@@ -37,3 +37,5 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cxymq&theme=dracula&layout=compact" />
 </a>
 </p>
+
+[![Netease recently played](https://netease-recent-profile.vercel.app/?id=84555832&show_percent=1&size=60)](https://netease-recent-profile.vercel.app/?id=126764012&show_percent=1&size=60)
