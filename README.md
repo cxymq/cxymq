@@ -25,7 +25,6 @@ Here are some ideas to get you started:
 -->
 [![CSDN](https://img.shields.io/static/v1?label=csdn&message=up&color=green)](https://blog.csdn.net/Crazy_SunShine/)
 
-[![Netease recently played](https://netease-recent-profile.vercel.app/?id=84555832&show_percent=1&size=60&title=最近在听&width=350)](https://netease-recent-profile.vercel.app/?id=126764012&show_percent=1&size=60&title=最近在听&width=350)
 <!-- <p align="center">
 <a href="https://github.com/cxymq">
   <img height="180em" src="https://github.com/cxymq/Images/blob/master/gif/d7ae04e1-390a-4553-befa-9f8ffc08f7b6.gif" />
@@ -39,4 +38,5 @@ Here are some ideas to get you started:
 </a>
 </p>
 
-
+[![Netease recently played](https://netease-recent-profile.vercel.app/?id=84555832&type=1&show_percent=1&size=60&title=最近在听&width=350)](https://netease-recent-profile.vercel.app/?id=126764012&type=1&show_percent=1&size=60&title=最近在听&width=350)
+[![Netease recently played](https://netease-recent-profile.vercel.app/?id=84555832&type=0&show_percent=1&size=60&title=听歌排行&width=350)](https://netease-recent-profile.vercel.app/?id=126764012&type=0&show_percent=1&size=60&title=听歌排行&width=350)
